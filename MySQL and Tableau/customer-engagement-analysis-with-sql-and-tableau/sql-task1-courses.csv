@@ -1,0 +1,47 @@
+course_id,course_title,total_minutes_watched,average_minutes,number_of_ratings,average_rating
+2,"Introduction to Tableau",50406,83,40,5
+3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",68922,126,34,5
+4,"Introduction to R Programming",28009,115,25,5
+5,"Data Preprocessing with NumPy",44324,165,31,5
+7,"Introduction to Data and Data Science",333266,40,572,5
+11,"Data Cleaning and Preprocessing with pandas",25412,69,53,5
+12,"Introduction to Business Analytics",13392,62,14,5
+13,"Data Analysis with Excel Pivot Tables",38021,52,90,5
+14,SQL,234825,145,125,5
+15,"Credit Risk Modeling in Python",19717,49,17,5
+16,"Python Programmer Bootcamp",155165,137,101,5
+19,"SQL + Tableau + Python",4938,38,7,5
+20,"Introduction to Jupyter",20051,37,57,5
+21,Statistics,193280,97,215,5
+22,Mathematics,12522,32,60,5
+23,"Introduction to Excel",164473,68,242,5
+24,Probability,42523,98,61,5
+25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",12176,44,21,5
+26,"SQL + Tableau",3499,21,26,5
+27,"Time Series Analysis with Python",11574,69,11,5
+28,"Power BI",34078,60,47,5
+29,"Product Management for AI & Data Science",8863,55,17,5
+30,"Git and GitHub",6540,29,41,5
+32,"Deep Learning with TensorFlow 2",15437,81,13,5
+33,"Customer Analytics in Python",8138,61,11,5
+34,"Web Scraping and API Fundamentals in Python",11027,52,11,5
+35,"Introduction to Python",25356,38,100,5
+36,"Python for Finance",3909,41,10,5
+37,"Machine Learning in Python",37794,52,42,5
+39,"Advanced Microsoft Excel",14895,53,50,5
+41,"Convolutional Neural Networks with TensorFlow in Python",4126,74,4,5
+42,"Data Strategy",102888,74,154,5
+43,"Fashion Analytics with Tableau",3262,43,11,5
+44,"Dates and Times in Python",1247,38,8,5
+45,"SQL for Data Science Interviews",10073,15,16,5
+46,"Data Literacy",51093,130,72,5
+48,"AI Applications for Business Success",1263,37,4,5
+49,"Linear Algebra and Feature Selection",3280,47,7,5
+50,"Machine Learning with Naive Bayes",2455,29,17,5
+51,"Machine Learning in Excel",2588,42,6,5
+52,"Machine Learning with Support Vector Machines",1742,34,11,5
+53,"A/B Testing in Python",3990,30,12,5
+54,"Machine Learning with Decision Trees and Random Forests",2432,45,18,5
+55,"Machine Learning with K-Nearest Neighbors",1248,30,15,5
+56,"Machine Learning with Ridge and Lasso Regression",653,33,0,0
+57,"Data-Driven Business Growth",736,18,1,1
